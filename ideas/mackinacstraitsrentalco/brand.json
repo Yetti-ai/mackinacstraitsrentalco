@@ -25,9 +25,16 @@
     "/ingested/mackinacstraitsrentalco/kayak-paddleboard-people.webp",
     "/ingested/mackinacstraitsrentalco/bridge-tour-kayakers.webp",
     "/ingested/mackinacstraitsrentalco/pontiki-dock-sunset.webp",
-    "/ingested/mackinacstraitsrentalco/jetski-illustration.webp"
+    "/ingested/mackinacstraitsrentalco/jetski-rider.webp"
   ],
   "imageCount": 7,
+  "stockImages": [
+    {
+      "path": "/ingested/mackinacstraitsrentalco/jetski-rider.webp",
+      "source": "https://images.pexels.com/photos/35767037/pexels-photo-35767037.jpeg",
+      "reason": "Source site's only jet ski asset was a vector illustration, not a photo. Site has no gallery page and no real jet ski photograph (confirmed via full sitemap). Replaced with a real Pexels photo of the same rental brand (Sea-Doo)."
+    }
+  ],
   "social": {
     "email": "mackinacstraitskayaking@gmail.com"
   },
