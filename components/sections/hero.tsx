@@ -91,8 +91,8 @@ export function Hero() {
           <div className="relative overflow-hidden rounded-3xl border border-border shadow-xl shadow-primary/10">
             <BorderBeam />
             <Image
-              src="/ingested/mackinacstraitsrentalco/family-sunset-kayaking.webp"
-              alt="A family paddling kayaks and a canoe together at sunset on the Straits of Mackinac"
+              src="/ingested/mackinacstraitsrentalco/sunset-group-paddle.webp"
+              alt="Kayakers and canoeists paddling together at sunset on the Straits of Mackinac"
               width={1000}
               height={563}
               priority

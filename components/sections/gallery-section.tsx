@@ -3,8 +3,8 @@ import { Reveal } from "@/components/magic/reveal";
 
 const images = [
   {
-    src: "/ingested/mackinacstraitsrentalco/family-sunset-kayaking.webp",
-    alt: "A family paddling kayaks and a canoe together at sunset on the Straits of Mackinac",
+    src: "/ingested/mackinacstraitsrentalco/sunset-group-paddle.webp",
+    alt: "A group paddling kayaks and a canoe together at sunset on the Straits of Mackinac",
   },
   {
     src: "/ingested/mackinacstraitsrentalco/bridge-tour-kayakers.webp",

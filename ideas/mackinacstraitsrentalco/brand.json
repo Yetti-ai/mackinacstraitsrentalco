@@ -2,9 +2,9 @@
   "source": "https://www.mackinacstraitsrentalco.biz/",
   "ingestedFromHost": "mackinacstraitsrentalco.biz",
   "pagesCrawled": 2,
-  "name": "Mackinac Straits Kay",
-  "tagline": "Home | Mackinac Straits Kayaking",
-  "description": "",
+  "name": "Mackinac Straits Watersports & Rental Co.",
+  "tagline": "Rentals. Tours. Cruises. Right on the Straits in St. Ignace, Michigan.",
+  "description": "Jet ski, kayak, bicycle, and Pon Tiki pontoon rentals in St. Ignace, Michigan, plus Mackinac Bridge and fireworks tours.",
   "domain": "mackinacstraitsrentalco.biz",
   "brandColor": {
     "hex": "#116dff",
@@ -15,36 +15,39 @@
     "hue": 261
   },
   "fonts": [],
-  "logo": null,
-  "logoNote": "Logo not auto-found — grab the navbar logo manually",
+  "logo": "/ingested/mackinacstraitsrentalco/logo.webp",
+  "logoNote": "Real logo pulled from the Wix media CDN (static.wixstatic.com), not auto-detected by the crawler.",
   "favicon": "https://static.parastorage.com/client/pfavico.ico",
   "images": [
-    "/ingested/mackinacstraitsrentalco/img-005.webp",
-    "/ingested/mackinacstraitsrentalco/img-006.webp"
+    "/ingested/mackinacstraitsrentalco/logo.webp",
+    "/ingested/mackinacstraitsrentalco/sunset-group-paddle.webp",
+    "/ingested/mackinacstraitsrentalco/kayak-fleet.webp",
+    "/ingested/mackinacstraitsrentalco/kayak-paddleboard-people.webp",
+    "/ingested/mackinacstraitsrentalco/bridge-tour-kayakers.webp",
+    "/ingested/mackinacstraitsrentalco/pontiki-dock-sunset.webp",
+    "/ingested/mackinacstraitsrentalco/jetski-illustration.webp"
   ],
-  "imageCount": 2,
+  "imageCount": 7,
   "social": {
     "email": "mackinacstraitskayaking@gmail.com"
   },
   "whatsapp": null,
   "phone": "5175289545",
-  "location": null,
+  "location": "499 N State St., St Ignace, MI 49781, USA",
   "sectionOrder": [
-    "MACKINAC STRAITS WATERSPORTS RENTAL CO.",
-    "MACKINAC STRAITS WATERSPORTS & RENTAL CO.",
-    "CONTACT US"
+    "Hero / intro",
+    "Kayak Rentals",
+    "Fireworks & Mackinac Bridge Tours",
+    "Pon Tiki Pontoon Cruises",
+    "Jet Ski Rentals",
+    "Booking note",
+    "Gallery",
+    "Contact Us",
+    "Map / location"
   ],
   "navItems": [
-    {
-      "text": "mackinacstraitskayaking@gmail.com(517) 528-9545MACKINAC STRAITS WATERSPORTS RENTAL CO.​St. Ignace, Michigan HomeShopMoreUse tab to navigate through the menu items.",
-      "url": "https://www.mackinacstraitsrentalco.biz/undefined",
-      "path": "/undefined"
-    },
-    {
-      "text": "Shop",
-      "url": "https://www.mackinacstraitsrentalco.biz/shop",
-      "path": "/shop"
-    }
+    { "text": "Home", "url": "https://www.mackinacstraitsrentalco.biz/", "path": "/" },
+    { "text": "Shop", "url": "https://www.mackinacstraitsrentalco.biz/shop", "path": "/shop" }
   ],
   "footerItems": [],
   "innerPages": [
