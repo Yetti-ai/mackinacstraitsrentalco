@@ -67,8 +67,8 @@ export function JetSkis() {
             </h2>
             <div className="mt-6 overflow-hidden rounded-3xl border border-border bg-card">
               <Image
-                src="/ingested/mackinacstraitsrentalco/jetski-illustration.webp"
-                alt="Illustration of a jet skier crossing the wake in front of the Mackinac Bridge"
+                src="/ingested/mackinacstraitsrentalco/jetski-rider.webp"
+                alt="A rider in a life jacket crossing the wake on a Sea-Doo jet ski"
                 width={1000}
                 height={563}
                 quality={80}

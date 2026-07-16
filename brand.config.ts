@@ -57,6 +57,7 @@ export const brand = {
     facebook: "mackinacstraitskayaking",
     instagram: "mackinac_straits_watersports",
     email: "mackinacstraitskayaking@gmail.com",
+    github: "FloFlo32/mackinacstraitsrentalco",
   },
 
   /**
